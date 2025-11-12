@@ -1,54 +1,47 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/transportio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/transportio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/transportio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
+# 🚚 CargoFlow
 
-  <br />
-  <br />
+A modern, responsive website template for logistics, transportation, and cargo services — built using **HTML**, **CSS**, and a touch of **JavaScript**.
 
-  <h2 align="center">Transportio - Transportation website</h2>
+---
 
-  Transportio is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## 🌐 Overview
 
-  <a href="https://codewithsadee.github.io/transportio/"><strong>➥ Live Demo</strong></a>
+**CargoFlow** is a simple yet elegant front-end project designed to showcase transportation and logistics services.  
+It includes a clean layout, interactive sections, and responsive design that looks great on all devices.
 
-</div>
+---
 
-<br />
+## ✨ Features
 
-### Demo Screeshots
+- ✅ Fully responsive design  
+- ✅ Modern and clean UI  
+- ✅ Smooth scrolling navigation  
+- ✅ Easy to customize and extend  
+- ✅ Lightweight — no external dependencies
 
-![Transportio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
 
-### Prerequisites
+## 🧩 Tech Stack
 
-Before you begin, ensure you have met the following requirements:
+- **HTML5** for structure  
+- **CSS3** for styling and responsiveness  
+- **JavaScript** for basic interactivity  
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-### Run Locally
+## 🚀 Getting Started
 
-To run **Transportio** locally, run this command on your git bash:
-
-Linux and macOS:
+Follow these steps to run the project locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/transportio.git
-```
+# Clone the repository
+git clone https://github.com/mortalrahul24/cargoflow.git
 
-Windows:
+# Navigate to the project folder
+cd cargoflow
 
-```bash
-git clone https://github.com/codewithsadee/transportio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+# Open in your browser
+open index.html   # (mac)
+# or
+xdg-open index.html   # (linux)
+# or simply double-click index.html on Windows
